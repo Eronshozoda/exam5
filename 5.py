@@ -1,0 +1,5 @@
+a=int(input())
+print(f"Rub -> {a*0.1193}")
+print(f"USD ->{a*10.8656}")
+print(f"EUR -> {a*11.7837}")
+print(f"UZ_SUM -> {a*0.0856}")
